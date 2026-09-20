@@ -1,0 +1,6 @@
+{
+  "name": "Border Agent OS",
+  "description": "World Trigger inspired study and focus training app with radar parameters and solo rank wars",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
